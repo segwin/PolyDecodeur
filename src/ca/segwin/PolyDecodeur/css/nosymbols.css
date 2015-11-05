@@ -1,0 +1,5 @@
+.default-color0.chart-series-area-line { -fx-stroke: transparent; }
+.default-color0.chart-series-area-fill { -fx-fill: transparent; }
+
+.default-color1.chart-area-symbol { -fx-background-color: transparent, transparent; }
+.default-color1.chart-legend-item-symbol{ -fx-background-color: #fba71b; }
